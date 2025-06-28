@@ -1,8 +1,15 @@
 # 💫 About Me:
-I'm Afaq Razaq, a frontend developer and co-founder of Evolvion.io. I specialize in creating user-friendly web applications. Over the past three years, I've built several projects including Anchorize.io for client onboarding, PrivacyBot.com for managing personal data privacy, Calendia.io for booking and scheduling services, and Supertip, a donation platform for streamers. At Evala.ai, I developed AI-powered tools to assist investment firms and accelerators. Additionally, I've worked on Luxaywear.com, an e-commerce platform. 
+I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evolvion.io). I specialize in creating user-friendly web applications.
 
-My technical skills include ReactJS, NodeJS, ExpressJS, MongoDB, and Figma, and I focus on delivering great user experiences through clean and effective designs.
+Over the past three years, I've built several projects including:
+- [Anchorize.io](https://anchorize.io): A client onboarding platform for agencies
+- [PrivacyBot.com](https://privacybot.com): Helps remove your personal data from the internet
+- [Calendia.io](https://calendia.io): A booking system for coaches and service businesses
+- [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers
+- [Evala.ai](https://evala.ai): AI tools for investors and accelerators
+- [Luxaywear.com](https://luxaywear.com): A simple e-commerce store
 
+I work mostly with ReactJS, NodeJS, ExpressJS, MongoDB, and Figma.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xyzafaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-razaq-23aaa7317) 
