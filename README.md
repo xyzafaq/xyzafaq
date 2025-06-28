@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am experienced Front end Developer with almost 3 years of successful freelancing. Specialized in<br> UI/UX, with a strong portfolio including projects in investment capitals,<br> auto auctions, soccer drills, restaurant, dashboards front-end, agency<br> websites development. Proven track record in delivering high-quality<br> solutions on time. Ready to contribute to your team's success. Bringing<br> forth expertise in design, installation, testing and maintenance of web<br> systems.
+I'm Afaq Razaq, a frontend developer and co-founder of Evolvion.io. I specialize in creating user-friendly web applications. Over the past three years, I've built several projects including Anchorize.io for client onboarding, PrivacyBot.com for managing personal data privacy, Calendia.io for booking and scheduling services, and Supertip, a donation platform for streamers. At Evala.ai, I developed AI-powered tools to assist investment firms and accelerators. Additionally, I've worked on Luxaywear.com, an e-commerce platform. 
+
+My technical skills include ReactJS, NodeJS, ExpressJS, MongoDB, and Figma, and I focus on delivering great user experiences through clean and effective designs.
 
 
 ## 🌐 Socials:
