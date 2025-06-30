@@ -3,17 +3,17 @@ I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evo
 
 Over the past three years, I've built several projects including:
 
-- [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers
+- [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers.
 
-- [Anchorize.io](https://anchorize.io): A client onboarding platform for agencies
+- [Anchorize.io](https://anchorize.io): A client onboarding platform for agencies.
 - 🔗 [Frontend Only](https://anchorize.vercel.app)
   
-- [PrivacyBot.com](https://privacybot.com): Helps remove your personal data from the internet
+- [PrivacyBot.com](https://privacybot.com): Helps remove your personal data from the internet.
 - 🔗 [Frontend Only](https://privacybot.vercel.app/)
  
-- [Calendia.io](https://calendia.io): A booking system for coaches and service businesses
-- [Evala.ai](https://evala.ai): AI tools for investors and accelerators
-- [Luxaywear.com](https://luxaywear.com): A simple e-commerce store
+- [Calendia.io](https://calendia.io): A booking system for coaches and service businesses.
+- [Evala.ai](https://evala.ai): AI tools for investors and accelerators.
+- [Luxaywear.com](https://luxaywear.com): A simple e-commerce store.
 
 I work mostly with ReactJS, NodeJS, ExpressJS, MongoDB, and Figma.
 
