@@ -13,7 +13,7 @@ Over the past three years, I've built several projects including:
 - [Evala.ai](https://evala.ai): AI tools for investors and accelerators.
 - [Luxaywear.com](https://luxaywear.com): A simple e-commerce store.
 
-I work mostly with ReactJS, NodeJS, ExpressJS, MongoDB, and Figma.
+I work mostly with ReactJS, NodeJS, ExpressJS, MongoDB, and Figma
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xyzafaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-razaq-23aaa7317) 
