@@ -9,6 +9,9 @@ Over the past three years, I've built several projects including:
 - [PrivacyBot.com](https://privacybot.com): Helps remove your personal data from the internet.
 - 🔗 [Frontend Only](https://privacybot.vercel.app/)
  
+- [Mentr](https://mentr-rho.vercel.app/home): Connect Mentors with Mentees.
+- 🔗 [Dashboard](https://mentr-rho.vercel.app/)
+- 
 - [Calendia.io](https://calendia.io): A booking system for coaches and service businesses.
 - [Evala.ai](https://evala.ai): AI tools for investors and accelerators.
 - [Luxaywear.com](https://luxaywear.com): A simple e-commerce store.
