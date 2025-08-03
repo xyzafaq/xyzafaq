@@ -3,6 +3,8 @@ I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evo
 
 Over the past three years, I've built several projects including:
 
+- [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers.
+
 - [Anchorize.io](https://anchorize.io): A client onboarding platform for agencies.
 - 🔗 [Frontend Only](https://anchorize.vercel.app)
   
