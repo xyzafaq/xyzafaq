@@ -10,6 +10,9 @@ Over the past three years, I've built several projects including:
   
 - [PrivacyBot.com](https://privacybot.com): Helps remove your personal data from the internet.
 - 🔗 [Frontend Only](https://privacybot.vercel.app/)
+
+- [FuelClubs](https://fuel-clubs.vercel.app/home): Convenient, reliable fuel delivery.
+- 🔗 [Dashboard](https://fuel-clubs.vercel.app/)
  
 - [Mentr](https://mentr-rho.vercel.app/home): Connect Mentors with Mentees.
 - 🔗 [Dashboard](https://mentr-rho.vercel.app/)
