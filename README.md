@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evolvion.io) I specialize in creating user-friendly web applications.
+I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evolvion.io) I specialize in creating user-friendly web applications!
 
 Over the past three years, I've built several projects including:
 
@@ -11,7 +11,7 @@ Over the past three years, I've built several projects including:
 - [PrivacyBot.com](https://privacybot.com): Helps remove your personal data from the internet.
 - 🔗 [Frontend Only](https://privacybot.vercel.app/)
 
-- [FuelClubs](https://fuel-clubs.vercel.app/home): Convenient, reliable fuel delivery.
+- [FuelClubs](https://fuel-clubs.vercel.app/home): (App and Web) Convenient, reliable fuel delivery.
 - 🔗 [Dashboard](https://fuel-clubs.vercel.app/)
  
 - [Mentr](https://mentr-rho.vercel.app/home): Connect Mentors with Mentees.
