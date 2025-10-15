@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evolvion.io) I specialize in creating user-friendly Web & App applications.
 
-Over the past three years, I've built several [Products](https://www.evolvion.io/portfolio) including:
+Over the past few years, I've built several [Products](https://www.evolvion.io/portfolio) including:
 
 - [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers.
 
