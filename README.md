@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evolvion.io) I specialize in creating user-friendly Apps & Web applications.
+I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evolvion.io) I specialize in creating user-friendly Apps & Web applications!
 
 Over the past few years, I've built several [Products](https://www.evolvion.io/portfolio) including:
 
