@@ -17,6 +17,9 @@ Over the past few years, I've built several [Products](https://www.evolvion.io/p
 - [Mentr](https://www.joinmentr.com/): Connect Mentors with Mentees.
 - 🔗 [Dashboard](https://mentr-rho.vercel.app/)
 
+- [Light Track](https://lighttrack.vercel.app/): Lighting Specsfor Real-World Projects.
+- 🔗 [Manufacturer Panel](https://lighttrack.vercel.app/?panel=manufacturer) | [Customer Panel](https://lighttrack.vercel.app/?panel=customer)
+
 - [Evala.ai](https://evala.ai): AI tools for investors and accelerators.
 - [Calendia.io](https://calendia.io): A booking system for coaches and service businesses.
 - [Luxaywear.com](https://luxaywear.com): A simple e-commerce store.
