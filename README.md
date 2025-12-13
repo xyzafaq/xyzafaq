@@ -6,7 +6,7 @@ Over the past few years, I've built several [Products](https://www.evolvion.io/p
 - [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers.
 
 - [FuelClubs](https://www.fuelclubs.com/): (App and Web) Convenient, reliable fuel delivery.
-- 🔗 [Dashboard](https://fuel-clubs.vercel.app/) | [IOS App](https://apps.apple.com/us/app/fuelclubs/id6753362541)
+- 🔗 [Dashboard](https://fuel-clubs.vercel.app/) | [IOS App](https://apps.apple.com/us/app/fuelclubs/id6753362541) | [Android App](https://play.google.com/store/apps/details?id=com.devzona.fuelclubs&hl=en)
 
 - [Anchorize.io](https://anchorize.io): A client onboarding platform for agencies.
 - 🔗 [Frontend Only](https://anchorize.vercel.app)
