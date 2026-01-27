@@ -17,7 +17,7 @@ Over the past few years, I've built several [Products](https://www.evolvion.io/p
 - [Mentr](https://www.joinmentr.com/): Connect Mentors with Mentees.
 - 🔗 [Dashboard](https://mentr-rho.vercel.app/)
 
-- [Light Track](https://lighttrack.vercel.app/): Lighting Specs for Real-World Projects.
+- [Light Track](https://light-track.com/): Lighting Specs for Real-World Projects.
 - 🔗 [Manufacturer Panel](https://lighttrack.vercel.app/?panel=manufacturer) | [Customer Panel](https://lighttrack.vercel.app/?panel=customer)
 
 - [Evala.ai](https://evala.ai): AI tools for investors and accelerators.
