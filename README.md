@@ -27,5 +27,5 @@ Over the past few years, I've built several [Products](https://www.evolvion.io/p
 Tech Stack => ReactJS, React Native, NodeJS, ExpressJS, MongoDB, and Figma.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xyzafaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-razaq-23aaa7317) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-razaq-23aaa7317) 
 
