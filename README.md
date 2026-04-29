@@ -4,7 +4,8 @@ I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evo
 Over the past few years, I've built several [Products](https://www.evolvion.io/portfolio) including:
 
 - [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers.
-
+- [Trykeywordalerts](trykeywordalerts.com): Track Reddit, X & Hacker News keywords and get instant AI-powered buyer-intent alerts.
+- 
 - [FuelClubs](https://www.fuelclubs.com/): (App and Web) Convenient, reliable fuel delivery.
 - 🔗 [Dashboard](https://fuel-clubs.vercel.app/) | [IOS App](https://apps.apple.com/us/app/fuelclubs/id6753362541) | [Android App](https://play.google.com/store/apps/details?id=com.devzona.fuelclubs&hl=en)
 
@@ -22,7 +23,6 @@ Over the past few years, I've built several [Products](https://www.evolvion.io/p
 
 - [Evala.ai](https://evala.ai): AI tools for investors and accelerators.
 - [Calendia.io](https://calendia.io): A booking system for coaches and service businesses.
-- [Luxaywear.com](https://luxaywear.com): A simple e-commerce store.
 
 Tech Stack => ReactJS, React Native, NodeJS, ExpressJS, MongoDB, and Figma.
 
