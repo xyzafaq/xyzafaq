@@ -4,7 +4,7 @@ I'm Afaq Razaq, a frontend developer and co-founder of [Evolvion.io](https://evo
 Over the past few years, I've built several [Products](https://www.evolvion.io/portfolio) including:
 
 - [Supertip](https://supertip-gg.vercel.app/): A donation platform for streamers.
-- [Trykeywordalerts](trykeywordalerts.com): Track Reddit, X & Hacker News keywords and get instant AI-powered buyer-intent alerts.
+- [Trykeywordalerts](https://trykeywordalerts.com): Track Reddit, X & Hacker News keywords and get instant AI-powered buyer-intent alerts.
 
 - [FuelClubs](https://www.fuelclubs.com/): (App and Web) Convenient, reliable fuel delivery.
 - 🔗 [Dashboard](https://fuel-clubs.vercel.app/) | [IOS App](https://apps.apple.com/us/app/fuelclubs/id6753362541) | [Android App](https://play.google.com/store/apps/details?id=com.devzona.fuelclubs&hl=en)
